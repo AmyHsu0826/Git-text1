@@ -1,0 +1,49 @@
+@charset "utf-8";
+h1,h2,h3,h4,h5,h6,p {
+	font-family: "微軟正黑體";
+	text-align: center;
+}
+.container-fluid {
+	padding:0px;	
+}
+a.navbar-brand {
+	padding:0px 10px 0px 20px;
+}
+.navbar-default ,.footerbg {
+	background-color:#F7C7CE;
+}
+.navbar-default .navbar-nav>li>a {
+	colorL:#D8D8D8
+}
+.navbar-default .navbar-nav>li>a:hover {
+	color: white;
+}
+.graybg {
+	background-color:#4E4E4E;
+	text-align:center;
+}
+.graybg p {
+	color:white;
+}
+.logo{
+	text-align:center;
+	margin-top:50px;
+	}
+.about{
+	text-align:center;
+	margin-top:20px;
+	}
+.hoverbig img{
+	width=100%;
+	}
+.hoverbig img:hover{
+	width=130%;
+	margin-top:-15%;
+	margin-left:-15%;
+	transition:1.5s;
+}
+	
+
+.text : hover {
+	border: 3px solid #D4CACB;
+}
